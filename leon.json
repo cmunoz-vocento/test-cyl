@@ -1,0 +1,2931 @@
+{
+    "ixAutonomia": "07",
+    "ixProvincia": "24",
+    "sNombre": "León",
+    "escrutado": {
+        "00000": {
+            "escrutinio": {
+                "sHora": "--:--",
+                "dPcEscrutado": 0,
+                "iAbstenciones": 0,
+                "iNulos": 0,
+                "iBlancos": 0,
+                "iVotos": 0
+            },
+            "candidaturas": [
+                {
+                    "ixCandidatura": "0001",
+                    "sCandidatura": "PSOE",
+                    "ixCandidaturaAgregada": "0001",
+                    "sCandidaturaAgregada": "PSOE",
+                    "sCandidaturaUnificada": "psoe",
+                    "iVotos": 0,
+                    "dPcVotos": 0,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0002",
+                    "sCandidatura": "PP",
+                    "ixCandidaturaAgregada": "0002",
+                    "sCandidaturaAgregada": "PP",
+                    "sCandidaturaUnificada": "pp",
+                    "iVotos": 0,
+                    "dPcVotos": 0,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0006",
+                    "sCandidatura": "VOX",
+                    "ixCandidaturaAgregada": "0006",
+                    "sCandidaturaAgregada": "VOX",
+                    "sCandidaturaUnificada": "vox",
+                    "iVotos": 0,
+                    "dPcVotos": 0,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0004",
+                    "sCandidatura": "Podemos",
+                    "ixCandidaturaAgregada": "0004",
+                    "sCandidaturaAgregada": "Podemos",
+                    "sCandidaturaUnificada": "podemos",
+                    "iVotos": 0,
+                    "dPcVotos": 0,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0008",
+                    "sCandidatura": "Cs",
+                    "ixCandidaturaAgregada": "0008",
+                    "sCandidaturaAgregada": "Cs",
+                    "sCandidaturaUnificada": "cs",
+                    "iVotos": 0,
+                    "dPcVotos": 0,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0009",
+                    "sCandidatura": "PACMA",
+                    "ixCandidaturaAgregada": "0009",
+                    "sCandidaturaAgregada": "PACMA",
+                    "sCandidaturaUnificada": "pacma",
+                    "iVotos": 0,
+                    "dPcVotos": 0,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0022",
+                    "sCandidatura": "PREPAL",
+                    "ixCandidaturaAgregada": "0022",
+                    "sCandidaturaAgregada": "PREPAL",
+                    "sCandidaturaUnificada": "prepal",
+                    "iVotos": 0,
+                    "dPcVotos": 0,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0015",
+                    "sCandidatura": "PCTE",
+                    "ixCandidaturaAgregada": "0015",
+                    "sCandidaturaAgregada": "PCTE",
+                    "sCandidaturaUnificada": "pcte",
+                    "iVotos": 0,
+                    "dPcVotos": 0,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0021",
+                    "sCandidatura": "C. Bierzo",
+                    "ixCandidaturaAgregada": "0021",
+                    "sCandidaturaAgregada": "C. Bierzo",
+                    "sCandidaturaUnificada": "c-bierzo",
+                    "iVotos": 0,
+                    "dPcVotos": 0,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0012",
+                    "sCandidatura": "ESCAÑOS EN BLANCO",
+                    "ixCandidaturaAgregada": "0012",
+                    "sCandidaturaAgregada": "ESCAÑOS EN BLANCO",
+                    "sCandidaturaUnificada": "escanos-en-blanco",
+                    "iVotos": 0,
+                    "dPcVotos": 0,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0007",
+                    "sCandidatura": "IU-Sumar",
+                    "ixCandidaturaAgregada": "0007",
+                    "sCandidaturaAgregada": "IU-Sumar",
+                    "sCandidaturaUnificada": "iu",
+                    "iVotos": 0,
+                    "dPcVotos": 0,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0010",
+                    "sCandidatura": "NUEVECYL",
+                    "ixCandidaturaAgregada": "0010",
+                    "sCandidaturaAgregada": "NUEVECYL",
+                    "sCandidaturaUnificada": "nuevecyl",
+                    "iVotos": 0,
+                    "dPcVotos": 0,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0019",
+                    "sCandidatura": "P. ALANTRE",
+                    "ixCandidaturaAgregada": "0019",
+                    "sCandidaturaAgregada": "P. ALANTRE",
+                    "sCandidaturaUnificada": "p-alantre",
+                    "iVotos": 0,
+                    "dPcVotos": 0,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0011",
+                    "sCandidatura": "PCAS-TC",
+                    "ixCandidaturaAgregada": "0011",
+                    "sCandidaturaAgregada": "PCAS-TC",
+                    "sCandidaturaUnificada": "pcas-tc",
+                    "iVotos": 0,
+                    "dPcVotos": 0,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0014",
+                    "sCandidatura": "SALF",
+                    "ixCandidaturaAgregada": "0014",
+                    "sCandidaturaAgregada": "SALF",
+                    "sCandidaturaUnificada": "salf",
+                    "iVotos": 0,
+                    "dPcVotos": 0,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0020",
+                    "sCandidatura": "UPL",
+                    "ixCandidaturaAgregada": "0020",
+                    "sCandidaturaAgregada": "UPL",
+                    "sCandidaturaUnificada": "u-p-l",
+                    "iVotos": 0,
+                    "dPcVotos": 0,
+                    "iEscanos": 0
+                }
+            ]
+        },
+        "00004": {
+            "escrutinio": {
+                "sHora": "17:00",
+                "dPcEscrutado": 0.04,
+                "iAbstenciones": 94,
+                "iNulos": 0,
+                "iBlancos": 0,
+                "iVotos": 79
+            },
+            "candidaturas": [
+                {
+                    "ixCandidatura": "0002",
+                    "sCandidatura": "PP",
+                    "ixCandidaturaAgregada": "0002",
+                    "sCandidaturaAgregada": "PP",
+                    "sCandidaturaUnificada": "pp",
+                    "iVotos": 21,
+                    "dPcVotos": 26.58,
+                    "iEscanos": 4
+                },
+                {
+                    "ixCandidatura": "0020",
+                    "sCandidatura": "UPL",
+                    "ixCandidaturaAgregada": "0020",
+                    "sCandidaturaAgregada": "UPL",
+                    "sCandidaturaUnificada": "u-p-l",
+                    "iVotos": 20,
+                    "dPcVotos": 25.31,
+                    "iEscanos": 4
+                },
+                {
+                    "ixCandidatura": "0001",
+                    "sCandidatura": "PSOE",
+                    "ixCandidaturaAgregada": "0001",
+                    "sCandidaturaAgregada": "PSOE",
+                    "sCandidaturaUnificada": "psoe",
+                    "iVotos": 15,
+                    "dPcVotos": 18.98,
+                    "iEscanos": 3
+                },
+                {
+                    "ixCandidatura": "0021",
+                    "sCandidatura": "C. Bierzo",
+                    "ixCandidaturaAgregada": "0021",
+                    "sCandidaturaAgregada": "C. Bierzo",
+                    "sCandidaturaUnificada": "c-bierzo",
+                    "iVotos": 5,
+                    "dPcVotos": 6.32,
+                    "iEscanos": 1
+                },
+                {
+                    "ixCandidatura": "0004",
+                    "sCandidatura": "Podemos",
+                    "ixCandidaturaAgregada": "0004",
+                    "sCandidaturaAgregada": "Podemos",
+                    "sCandidaturaUnificada": "podemos",
+                    "iVotos": 5,
+                    "dPcVotos": 6.32,
+                    "iEscanos": 1
+                },
+                {
+                    "ixCandidatura": "0006",
+                    "sCandidatura": "VOX",
+                    "ixCandidaturaAgregada": "0006",
+                    "sCandidaturaAgregada": "VOX",
+                    "sCandidaturaUnificada": "vox",
+                    "iVotos": 4,
+                    "dPcVotos": 5.06,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0008",
+                    "sCandidatura": "Cs",
+                    "ixCandidaturaAgregada": "0008",
+                    "sCandidaturaAgregada": "Cs",
+                    "sCandidaturaUnificada": "cs",
+                    "iVotos": 3,
+                    "dPcVotos": 3.79,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0009",
+                    "sCandidatura": "PACMA",
+                    "ixCandidaturaAgregada": "0009",
+                    "sCandidaturaAgregada": "PACMA",
+                    "sCandidaturaUnificada": "pacma",
+                    "iVotos": 3,
+                    "dPcVotos": 3.79,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0015",
+                    "sCandidatura": "PCTE",
+                    "ixCandidaturaAgregada": "0015",
+                    "sCandidaturaAgregada": "PCTE",
+                    "sCandidaturaUnificada": "pcte",
+                    "iVotos": 3,
+                    "dPcVotos": 3.79,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0012",
+                    "sCandidatura": "ESCAÑOS EN BLANCO",
+                    "ixCandidaturaAgregada": "0012",
+                    "sCandidaturaAgregada": "ESCAÑOS EN BLANCO",
+                    "sCandidaturaUnificada": "escanos-en-blanco",
+                    "iVotos": 0,
+                    "dPcVotos": 0,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0007",
+                    "sCandidatura": "IU-Sumar",
+                    "ixCandidaturaAgregada": "0007",
+                    "sCandidaturaAgregada": "IU-Sumar",
+                    "sCandidaturaUnificada": "iu",
+                    "iVotos": 0,
+                    "dPcVotos": 0,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0010",
+                    "sCandidatura": "NUEVECYL",
+                    "ixCandidaturaAgregada": "0010",
+                    "sCandidaturaAgregada": "NUEVECYL",
+                    "sCandidaturaUnificada": "nuevecyl",
+                    "iVotos": 0,
+                    "dPcVotos": 0,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0019",
+                    "sCandidatura": "P. ALANTRE",
+                    "ixCandidaturaAgregada": "0019",
+                    "sCandidaturaAgregada": "P. ALANTRE",
+                    "sCandidaturaUnificada": "p-alantre",
+                    "iVotos": 0,
+                    "dPcVotos": 0,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0011",
+                    "sCandidatura": "PCAS-TC",
+                    "ixCandidaturaAgregada": "0011",
+                    "sCandidaturaAgregada": "PCAS-TC",
+                    "sCandidaturaUnificada": "pcas-tc",
+                    "iVotos": 0,
+                    "dPcVotos": 0,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0022",
+                    "sCandidatura": "PREPAL",
+                    "ixCandidaturaAgregada": "0022",
+                    "sCandidaturaAgregada": "PREPAL",
+                    "sCandidaturaUnificada": "prepal",
+                    "iVotos": 0,
+                    "dPcVotos": 0,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0014",
+                    "sCandidatura": "SALF",
+                    "ixCandidaturaAgregada": "0014",
+                    "sCandidaturaAgregada": "SALF",
+                    "sCandidaturaUnificada": "salf",
+                    "iVotos": 0,
+                    "dPcVotos": 0,
+                    "iEscanos": 0
+                }
+            ]
+        },
+        "00169": {
+            "escrutinio": {
+                "sHora": "17:03",
+                "dPcEscrutado": 1.69,
+                "iAbstenciones": 2569,
+                "iNulos": 23,
+                "iBlancos": 23,
+                "iVotos": 3725
+            },
+            "candidaturas": [
+                {
+                    "ixCandidatura": "0001",
+                    "sCandidatura": "PSOE",
+                    "ixCandidaturaAgregada": "0001",
+                    "sCandidaturaAgregada": "PSOE",
+                    "sCandidaturaUnificada": "psoe",
+                    "iVotos": 1031,
+                    "dPcVotos": 27.84,
+                    "iEscanos": 5
+                },
+                {
+                    "ixCandidatura": "0002",
+                    "sCandidatura": "PP",
+                    "ixCandidaturaAgregada": "0002",
+                    "sCandidaturaAgregada": "PP",
+                    "sCandidaturaUnificada": "pp",
+                    "iVotos": 1019,
+                    "dPcVotos": 27.52,
+                    "iEscanos": 4
+                },
+                {
+                    "ixCandidatura": "0006",
+                    "sCandidatura": "VOX",
+                    "ixCandidaturaAgregada": "0006",
+                    "sCandidaturaAgregada": "VOX",
+                    "sCandidaturaUnificada": "vox",
+                    "iVotos": 506,
+                    "dPcVotos": 13.66,
+                    "iEscanos": 2
+                },
+                {
+                    "ixCandidatura": "0020",
+                    "sCandidatura": "UPL",
+                    "ixCandidaturaAgregada": "0020",
+                    "sCandidaturaAgregada": "UPL",
+                    "sCandidaturaUnificada": "u-p-l",
+                    "iVotos": 394,
+                    "dPcVotos": 10.64,
+                    "iEscanos": 1
+                },
+                {
+                    "ixCandidatura": "0004",
+                    "sCandidatura": "Podemos",
+                    "ixCandidaturaAgregada": "0004",
+                    "sCandidaturaAgregada": "Podemos",
+                    "sCandidaturaUnificada": "podemos",
+                    "iVotos": 263,
+                    "dPcVotos": 7.1,
+                    "iEscanos": 1
+                },
+                {
+                    "ixCandidatura": "0009",
+                    "sCandidatura": "PACMA",
+                    "ixCandidaturaAgregada": "0009",
+                    "sCandidaturaAgregada": "PACMA",
+                    "sCandidaturaUnificada": "pacma",
+                    "iVotos": 104,
+                    "dPcVotos": 2.8,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0008",
+                    "sCandidatura": "Cs",
+                    "ixCandidaturaAgregada": "0008",
+                    "sCandidaturaAgregada": "Cs",
+                    "sCandidaturaUnificada": "cs",
+                    "iVotos": 95,
+                    "dPcVotos": 2.56,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0021",
+                    "sCandidatura": "C. Bierzo",
+                    "ixCandidaturaAgregada": "0021",
+                    "sCandidaturaAgregada": "C. Bierzo",
+                    "sCandidaturaUnificada": "c-bierzo",
+                    "iVotos": 91,
+                    "dPcVotos": 2.45,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0011",
+                    "sCandidatura": "PCAS-TC",
+                    "ixCandidaturaAgregada": "0011",
+                    "sCandidaturaAgregada": "PCAS-TC",
+                    "sCandidaturaUnificada": "pcas-tc",
+                    "iVotos": 69,
+                    "dPcVotos": 1.86,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0015",
+                    "sCandidatura": "PCTE",
+                    "ixCandidaturaAgregada": "0015",
+                    "sCandidaturaAgregada": "PCTE",
+                    "sCandidaturaUnificada": "pcte",
+                    "iVotos": 59,
+                    "dPcVotos": 1.59,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0022",
+                    "sCandidatura": "PREPAL",
+                    "ixCandidaturaAgregada": "0022",
+                    "sCandidaturaAgregada": "PREPAL",
+                    "sCandidaturaUnificada": "prepal",
+                    "iVotos": 20,
+                    "dPcVotos": 0.54,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0014",
+                    "sCandidatura": "SALF",
+                    "ixCandidaturaAgregada": "0014",
+                    "sCandidaturaAgregada": "SALF",
+                    "sCandidaturaUnificada": "salf",
+                    "iVotos": 13,
+                    "dPcVotos": 0.35,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0010",
+                    "sCandidatura": "NUEVECYL",
+                    "ixCandidaturaAgregada": "0010",
+                    "sCandidaturaAgregada": "NUEVECYL",
+                    "sCandidaturaUnificada": "nuevecyl",
+                    "iVotos": 8,
+                    "dPcVotos": 0.21,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0012",
+                    "sCandidatura": "ESCAÑOS EN BLANCO",
+                    "ixCandidaturaAgregada": "0012",
+                    "sCandidaturaAgregada": "ESCAÑOS EN BLANCO",
+                    "sCandidaturaUnificada": "escanos-en-blanco",
+                    "iVotos": 7,
+                    "dPcVotos": 0.18,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0007",
+                    "sCandidatura": "IU-Sumar",
+                    "ixCandidaturaAgregada": "0007",
+                    "sCandidaturaAgregada": "IU-Sumar",
+                    "sCandidaturaUnificada": "iu",
+                    "iVotos": 0,
+                    "dPcVotos": 0,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0019",
+                    "sCandidatura": "P. ALANTRE",
+                    "ixCandidaturaAgregada": "0019",
+                    "sCandidaturaAgregada": "P. ALANTRE",
+                    "sCandidaturaUnificada": "p-alantre",
+                    "iVotos": 0,
+                    "dPcVotos": 0,
+                    "iEscanos": 0
+                }
+            ]
+        },
+        "00327": {
+            "escrutinio": {
+                "sHora": "17:06",
+                "dPcEscrutado": 3.27,
+                "iAbstenciones": 4953,
+                "iNulos": 46,
+                "iBlancos": 37,
+                "iVotos": 7185
+            },
+            "candidaturas": [
+                {
+                    "ixCandidatura": "0002",
+                    "sCandidatura": "PP",
+                    "ixCandidaturaAgregada": "0002",
+                    "sCandidaturaAgregada": "PP",
+                    "sCandidaturaUnificada": "pp",
+                    "iVotos": 1994,
+                    "dPcVotos": 27.93,
+                    "iEscanos": 5
+                },
+                {
+                    "ixCandidatura": "0001",
+                    "sCandidatura": "PSOE",
+                    "ixCandidaturaAgregada": "0001",
+                    "sCandidaturaAgregada": "PSOE",
+                    "sCandidaturaUnificada": "psoe",
+                    "iVotos": 1838,
+                    "dPcVotos": 25.74,
+                    "iEscanos": 4
+                },
+                {
+                    "ixCandidatura": "0020",
+                    "sCandidatura": "UPL",
+                    "ixCandidaturaAgregada": "0020",
+                    "sCandidaturaAgregada": "UPL",
+                    "sCandidaturaUnificada": "u-p-l",
+                    "iVotos": 1040,
+                    "dPcVotos": 14.56,
+                    "iEscanos": 2
+                },
+                {
+                    "ixCandidatura": "0006",
+                    "sCandidatura": "VOX",
+                    "ixCandidaturaAgregada": "0006",
+                    "sCandidaturaAgregada": "VOX",
+                    "sCandidaturaUnificada": "vox",
+                    "iVotos": 954,
+                    "dPcVotos": 13.36,
+                    "iEscanos": 2
+                },
+                {
+                    "ixCandidatura": "0004",
+                    "sCandidatura": "Podemos",
+                    "ixCandidaturaAgregada": "0004",
+                    "sCandidaturaAgregada": "Podemos",
+                    "sCandidaturaUnificada": "podemos",
+                    "iVotos": 310,
+                    "dPcVotos": 4.34,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0008",
+                    "sCandidatura": "Cs",
+                    "ixCandidaturaAgregada": "0008",
+                    "sCandidaturaAgregada": "Cs",
+                    "sCandidaturaUnificada": "cs",
+                    "iVotos": 258,
+                    "dPcVotos": 3.61,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0009",
+                    "sCandidatura": "PACMA",
+                    "ixCandidaturaAgregada": "0009",
+                    "sCandidaturaAgregada": "PACMA",
+                    "sCandidaturaUnificada": "pacma",
+                    "iVotos": 183,
+                    "dPcVotos": 2.56,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0011",
+                    "sCandidatura": "PCAS-TC",
+                    "ixCandidaturaAgregada": "0011",
+                    "sCandidaturaAgregada": "PCAS-TC",
+                    "sCandidaturaUnificada": "pcas-tc",
+                    "iVotos": 154,
+                    "dPcVotos": 2.15,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0015",
+                    "sCandidatura": "PCTE",
+                    "ixCandidaturaAgregada": "0015",
+                    "sCandidaturaAgregada": "PCTE",
+                    "sCandidaturaUnificada": "pcte",
+                    "iVotos": 130,
+                    "dPcVotos": 1.82,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0021",
+                    "sCandidatura": "C. Bierzo",
+                    "ixCandidaturaAgregada": "0021",
+                    "sCandidaturaAgregada": "C. Bierzo",
+                    "sCandidaturaUnificada": "c-bierzo",
+                    "iVotos": 122,
+                    "dPcVotos": 1.7,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0022",
+                    "sCandidatura": "PREPAL",
+                    "ixCandidaturaAgregada": "0022",
+                    "sCandidaturaAgregada": "PREPAL",
+                    "sCandidaturaUnificada": "prepal",
+                    "iVotos": 76,
+                    "dPcVotos": 1.06,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0014",
+                    "sCandidatura": "SALF",
+                    "ixCandidaturaAgregada": "0014",
+                    "sCandidaturaAgregada": "SALF",
+                    "sCandidaturaUnificada": "salf",
+                    "iVotos": 22,
+                    "dPcVotos": 0.3,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0012",
+                    "sCandidatura": "ESCAÑOS EN BLANCO",
+                    "ixCandidaturaAgregada": "0012",
+                    "sCandidaturaAgregada": "ESCAÑOS EN BLANCO",
+                    "sCandidaturaUnificada": "escanos-en-blanco",
+                    "iVotos": 13,
+                    "dPcVotos": 0.18,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0010",
+                    "sCandidatura": "NUEVECYL",
+                    "ixCandidaturaAgregada": "0010",
+                    "sCandidaturaAgregada": "NUEVECYL",
+                    "sCandidaturaUnificada": "nuevecyl",
+                    "iVotos": 8,
+                    "dPcVotos": 0.11,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0007",
+                    "sCandidatura": "IU-Sumar",
+                    "ixCandidaturaAgregada": "0007",
+                    "sCandidaturaAgregada": "IU-Sumar",
+                    "sCandidaturaUnificada": "iu",
+                    "iVotos": 0,
+                    "dPcVotos": 0,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0019",
+                    "sCandidatura": "P. ALANTRE",
+                    "ixCandidaturaAgregada": "0019",
+                    "sCandidaturaAgregada": "P. ALANTRE",
+                    "sCandidaturaUnificada": "p-alantre",
+                    "iVotos": 0,
+                    "dPcVotos": 0,
+                    "iEscanos": 0
+                }
+            ]
+        },
+        "00798": {
+            "escrutinio": {
+                "sHora": "17:09",
+                "dPcEscrutado": 7.98,
+                "iAbstenciones": 12143,
+                "iNulos": 164,
+                "iBlancos": 107,
+                "iVotos": 17483
+            },
+            "candidaturas": [
+                {
+                    "ixCandidatura": "0001",
+                    "sCandidatura": "PSOE",
+                    "ixCandidaturaAgregada": "0001",
+                    "sCandidaturaAgregada": "PSOE",
+                    "sCandidaturaUnificada": "psoe",
+                    "iVotos": 5537,
+                    "dPcVotos": 31.97,
+                    "iEscanos": 5
+                },
+                {
+                    "ixCandidatura": "0002",
+                    "sCandidatura": "PP",
+                    "ixCandidaturaAgregada": "0002",
+                    "sCandidaturaAgregada": "PP",
+                    "sCandidaturaUnificada": "pp",
+                    "iVotos": 4253,
+                    "dPcVotos": 24.55,
+                    "iEscanos": 4
+                },
+                {
+                    "ixCandidatura": "0006",
+                    "sCandidatura": "VOX",
+                    "ixCandidaturaAgregada": "0006",
+                    "sCandidaturaAgregada": "VOX",
+                    "sCandidaturaUnificada": "vox",
+                    "iVotos": 2194,
+                    "dPcVotos": 12.66,
+                    "iEscanos": 2
+                },
+                {
+                    "ixCandidatura": "0020",
+                    "sCandidatura": "UPL",
+                    "ixCandidaturaAgregada": "0020",
+                    "sCandidaturaAgregada": "UPL",
+                    "sCandidaturaUnificada": "u-p-l",
+                    "iVotos": 1977,
+                    "dPcVotos": 11.41,
+                    "iEscanos": 2
+                },
+                {
+                    "ixCandidatura": "0004",
+                    "sCandidatura": "Podemos",
+                    "ixCandidaturaAgregada": "0004",
+                    "sCandidaturaAgregada": "Podemos",
+                    "sCandidaturaUnificada": "podemos",
+                    "iVotos": 853,
+                    "dPcVotos": 4.92,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0008",
+                    "sCandidatura": "Cs",
+                    "ixCandidaturaAgregada": "0008",
+                    "sCandidaturaAgregada": "Cs",
+                    "sCandidaturaUnificada": "cs",
+                    "iVotos": 516,
+                    "dPcVotos": 2.97,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0021",
+                    "sCandidatura": "C. Bierzo",
+                    "ixCandidaturaAgregada": "0021",
+                    "sCandidaturaAgregada": "C. Bierzo",
+                    "sCandidaturaUnificada": "c-bierzo",
+                    "iVotos": 480,
+                    "dPcVotos": 2.77,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0009",
+                    "sCandidatura": "PACMA",
+                    "ixCandidaturaAgregada": "0009",
+                    "sCandidaturaAgregada": "PACMA",
+                    "sCandidaturaUnificada": "pacma",
+                    "iVotos": 425,
+                    "dPcVotos": 2.45,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0015",
+                    "sCandidatura": "PCTE",
+                    "ixCandidaturaAgregada": "0015",
+                    "sCandidaturaAgregada": "PCTE",
+                    "sCandidaturaUnificada": "pcte",
+                    "iVotos": 315,
+                    "dPcVotos": 1.81,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0011",
+                    "sCandidatura": "PCAS-TC",
+                    "ixCandidaturaAgregada": "0011",
+                    "sCandidaturaAgregada": "PCAS-TC",
+                    "sCandidaturaUnificada": "pcas-tc",
+                    "iVotos": 292,
+                    "dPcVotos": 1.68,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0022",
+                    "sCandidatura": "PREPAL",
+                    "ixCandidaturaAgregada": "0022",
+                    "sCandidaturaAgregada": "PREPAL",
+                    "sCandidaturaUnificada": "prepal",
+                    "iVotos": 275,
+                    "dPcVotos": 1.58,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0014",
+                    "sCandidatura": "SALF",
+                    "ixCandidaturaAgregada": "0014",
+                    "sCandidaturaAgregada": "SALF",
+                    "sCandidaturaUnificada": "salf",
+                    "iVotos": 44,
+                    "dPcVotos": 0.25,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0012",
+                    "sCandidatura": "ESCAÑOS EN BLANCO",
+                    "ixCandidaturaAgregada": "0012",
+                    "sCandidaturaAgregada": "ESCAÑOS EN BLANCO",
+                    "sCandidaturaUnificada": "escanos-en-blanco",
+                    "iVotos": 22,
+                    "dPcVotos": 0.12,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0010",
+                    "sCandidatura": "NUEVECYL",
+                    "ixCandidaturaAgregada": "0010",
+                    "sCandidaturaAgregada": "NUEVECYL",
+                    "sCandidaturaUnificada": "nuevecyl",
+                    "iVotos": 16,
+                    "dPcVotos": 0.09,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0007",
+                    "sCandidatura": "IU-Sumar",
+                    "ixCandidaturaAgregada": "0007",
+                    "sCandidaturaAgregada": "IU-Sumar",
+                    "sCandidaturaUnificada": "iu",
+                    "iVotos": 9,
+                    "dPcVotos": 0.05,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0019",
+                    "sCandidatura": "P. ALANTRE",
+                    "ixCandidaturaAgregada": "0019",
+                    "sCandidaturaAgregada": "P. ALANTRE",
+                    "sCandidaturaUnificada": "p-alantre",
+                    "iVotos": 4,
+                    "dPcVotos": 0.02,
+                    "iEscanos": 0
+                }
+            ]
+        },
+        "01263": {
+            "escrutinio": {
+                "sHora": "17:12",
+                "dPcEscrutado": 12.63,
+                "iAbstenciones": 18934,
+                "iNulos": 255,
+                "iBlancos": 154,
+                "iVotos": 27948
+            },
+            "candidaturas": [
+                {
+                    "ixCandidatura": "0001",
+                    "sCandidatura": "PSOE",
+                    "ixCandidaturaAgregada": "0001",
+                    "sCandidaturaAgregada": "PSOE",
+                    "sCandidaturaUnificada": "psoe",
+                    "iVotos": 8514,
+                    "dPcVotos": 30.74,
+                    "iEscanos": 5
+                },
+                {
+                    "ixCandidatura": "0002",
+                    "sCandidatura": "PP",
+                    "ixCandidaturaAgregada": "0002",
+                    "sCandidaturaAgregada": "PP",
+                    "sCandidaturaUnificada": "pp",
+                    "iVotos": 6447,
+                    "dPcVotos": 23.28,
+                    "iEscanos": 4
+                },
+                {
+                    "ixCandidatura": "0020",
+                    "sCandidatura": "UPL",
+                    "ixCandidaturaAgregada": "0020",
+                    "sCandidaturaAgregada": "UPL",
+                    "sCandidaturaUnificada": "u-p-l",
+                    "iVotos": 4247,
+                    "dPcVotos": 15.33,
+                    "iEscanos": 2
+                },
+                {
+                    "ixCandidatura": "0006",
+                    "sCandidatura": "VOX",
+                    "ixCandidaturaAgregada": "0006",
+                    "sCandidaturaAgregada": "VOX",
+                    "sCandidaturaUnificada": "vox",
+                    "iVotos": 3396,
+                    "dPcVotos": 12.26,
+                    "iEscanos": 2
+                },
+                {
+                    "ixCandidatura": "0004",
+                    "sCandidatura": "Podemos",
+                    "ixCandidaturaAgregada": "0004",
+                    "sCandidaturaAgregada": "Podemos",
+                    "sCandidaturaUnificada": "podemos",
+                    "iVotos": 1338,
+                    "dPcVotos": 4.83,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0021",
+                    "sCandidatura": "C. Bierzo",
+                    "ixCandidaturaAgregada": "0021",
+                    "sCandidaturaAgregada": "C. Bierzo",
+                    "sCandidaturaUnificada": "c-bierzo",
+                    "iVotos": 743,
+                    "dPcVotos": 2.68,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0008",
+                    "sCandidatura": "Cs",
+                    "ixCandidaturaAgregada": "0008",
+                    "sCandidaturaAgregada": "Cs",
+                    "sCandidaturaUnificada": "cs",
+                    "iVotos": 695,
+                    "dPcVotos": 2.5,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0009",
+                    "sCandidatura": "PACMA",
+                    "ixCandidaturaAgregada": "0009",
+                    "sCandidaturaAgregada": "PACMA",
+                    "sCandidaturaUnificada": "pacma",
+                    "iVotos": 604,
+                    "dPcVotos": 2.18,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0011",
+                    "sCandidatura": "PCAS-TC",
+                    "ixCandidaturaAgregada": "0011",
+                    "sCandidaturaAgregada": "PCAS-TC",
+                    "sCandidaturaUnificada": "pcas-tc",
+                    "iVotos": 506,
+                    "dPcVotos": 1.82,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0015",
+                    "sCandidatura": "PCTE",
+                    "ixCandidaturaAgregada": "0015",
+                    "sCandidaturaAgregada": "PCTE",
+                    "sCandidaturaUnificada": "pcte",
+                    "iVotos": 493,
+                    "dPcVotos": 1.78,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0022",
+                    "sCandidatura": "PREPAL",
+                    "ixCandidaturaAgregada": "0022",
+                    "sCandidaturaAgregada": "PREPAL",
+                    "sCandidaturaUnificada": "prepal",
+                    "iVotos": 418,
+                    "dPcVotos": 1.5,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0014",
+                    "sCandidatura": "SALF",
+                    "ixCandidaturaAgregada": "0014",
+                    "sCandidaturaAgregada": "SALF",
+                    "sCandidaturaUnificada": "salf",
+                    "iVotos": 53,
+                    "dPcVotos": 0.19,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0010",
+                    "sCandidatura": "NUEVECYL",
+                    "ixCandidaturaAgregada": "0010",
+                    "sCandidaturaAgregada": "NUEVECYL",
+                    "sCandidaturaUnificada": "nuevecyl",
+                    "iVotos": 35,
+                    "dPcVotos": 0.12,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0012",
+                    "sCandidatura": "ESCAÑOS EN BLANCO",
+                    "ixCandidaturaAgregada": "0012",
+                    "sCandidaturaAgregada": "ESCAÑOS EN BLANCO",
+                    "sCandidaturaUnificada": "escanos-en-blanco",
+                    "iVotos": 22,
+                    "dPcVotos": 0.07,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0007",
+                    "sCandidatura": "IU-Sumar",
+                    "ixCandidaturaAgregada": "0007",
+                    "sCandidaturaAgregada": "IU-Sumar",
+                    "sCandidaturaUnificada": "iu",
+                    "iVotos": 15,
+                    "dPcVotos": 0.05,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0019",
+                    "sCandidatura": "P. ALANTRE",
+                    "ixCandidaturaAgregada": "0019",
+                    "sCandidaturaAgregada": "P. ALANTRE",
+                    "sCandidaturaUnificada": "p-alantre",
+                    "iVotos": 13,
+                    "dPcVotos": 0.04,
+                    "iEscanos": 0
+                }
+            ]
+        },
+        "01489": {
+            "escrutinio": {
+                "sHora": "17:15",
+                "dPcEscrutado": 14.89,
+                "iAbstenciones": 22342,
+                "iNulos": 297,
+                "iBlancos": 180,
+                "iVotos": 32917
+            },
+            "candidaturas": [
+                {
+                    "ixCandidatura": "0001",
+                    "sCandidatura": "PSOE",
+                    "ixCandidaturaAgregada": "0001",
+                    "sCandidaturaAgregada": "PSOE",
+                    "sCandidaturaUnificada": "psoe",
+                    "iVotos": 10334,
+                    "dPcVotos": 31.67,
+                    "iEscanos": 5
+                },
+                {
+                    "ixCandidatura": "0002",
+                    "sCandidatura": "PP",
+                    "ixCandidaturaAgregada": "0002",
+                    "sCandidaturaAgregada": "PP",
+                    "sCandidaturaUnificada": "pp",
+                    "iVotos": 7390,
+                    "dPcVotos": 22.65,
+                    "iEscanos": 4
+                },
+                {
+                    "ixCandidatura": "0020",
+                    "sCandidatura": "UPL",
+                    "ixCandidaturaAgregada": "0020",
+                    "sCandidaturaAgregada": "UPL",
+                    "sCandidaturaUnificada": "u-p-l",
+                    "iVotos": 4730,
+                    "dPcVotos": 14.5,
+                    "iEscanos": 2
+                },
+                {
+                    "ixCandidatura": "0006",
+                    "sCandidatura": "VOX",
+                    "ixCandidaturaAgregada": "0006",
+                    "sCandidaturaAgregada": "VOX",
+                    "sCandidaturaUnificada": "vox",
+                    "iVotos": 4058,
+                    "dPcVotos": 12.44,
+                    "iEscanos": 2
+                },
+                {
+                    "ixCandidatura": "0004",
+                    "sCandidatura": "Podemos",
+                    "ixCandidaturaAgregada": "0004",
+                    "sCandidaturaAgregada": "Podemos",
+                    "sCandidaturaUnificada": "podemos",
+                    "iVotos": 1651,
+                    "dPcVotos": 5.06,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0021",
+                    "sCandidatura": "C. Bierzo",
+                    "ixCandidaturaAgregada": "0021",
+                    "sCandidaturaAgregada": "C. Bierzo",
+                    "sCandidaturaUnificada": "c-bierzo",
+                    "iVotos": 896,
+                    "dPcVotos": 2.74,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0008",
+                    "sCandidatura": "Cs",
+                    "ixCandidaturaAgregada": "0008",
+                    "sCandidaturaAgregada": "Cs",
+                    "sCandidaturaUnificada": "cs",
+                    "iVotos": 756,
+                    "dPcVotos": 2.31,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0009",
+                    "sCandidatura": "PACMA",
+                    "ixCandidaturaAgregada": "0009",
+                    "sCandidaturaAgregada": "PACMA",
+                    "sCandidaturaUnificada": "pacma",
+                    "iVotos": 694,
+                    "dPcVotos": 2.12,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0011",
+                    "sCandidatura": "PCAS-TC",
+                    "ixCandidaturaAgregada": "0011",
+                    "sCandidaturaAgregada": "PCAS-TC",
+                    "sCandidaturaUnificada": "pcas-tc",
+                    "iVotos": 656,
+                    "dPcVotos": 2.01,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0015",
+                    "sCandidatura": "PCTE",
+                    "ixCandidaturaAgregada": "0015",
+                    "sCandidaturaAgregada": "PCTE",
+                    "sCandidaturaUnificada": "pcte",
+                    "iVotos": 631,
+                    "dPcVotos": 1.93,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0022",
+                    "sCandidatura": "PREPAL",
+                    "ixCandidaturaAgregada": "0022",
+                    "sCandidaturaAgregada": "PREPAL",
+                    "sCandidaturaUnificada": "prepal",
+                    "iVotos": 493,
+                    "dPcVotos": 1.51,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0014",
+                    "sCandidatura": "SALF",
+                    "ixCandidaturaAgregada": "0014",
+                    "sCandidaturaAgregada": "SALF",
+                    "sCandidaturaUnificada": "salf",
+                    "iVotos": 57,
+                    "dPcVotos": 0.17,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0010",
+                    "sCandidatura": "NUEVECYL",
+                    "ixCandidaturaAgregada": "0010",
+                    "sCandidaturaAgregada": "NUEVECYL",
+                    "sCandidaturaUnificada": "nuevecyl",
+                    "iVotos": 35,
+                    "dPcVotos": 0.1,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0012",
+                    "sCandidatura": "ESCAÑOS EN BLANCO",
+                    "ixCandidaturaAgregada": "0012",
+                    "sCandidaturaAgregada": "ESCAÑOS EN BLANCO",
+                    "sCandidaturaUnificada": "escanos-en-blanco",
+                    "iVotos": 27,
+                    "dPcVotos": 0.08,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0019",
+                    "sCandidatura": "P. ALANTRE",
+                    "ixCandidaturaAgregada": "0019",
+                    "sCandidaturaAgregada": "P. ALANTRE",
+                    "sCandidaturaUnificada": "p-alantre",
+                    "iVotos": 17,
+                    "dPcVotos": 0.05,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0007",
+                    "sCandidatura": "IU-Sumar",
+                    "ixCandidaturaAgregada": "0007",
+                    "sCandidaturaAgregada": "IU-Sumar",
+                    "sCandidaturaUnificada": "iu",
+                    "iVotos": 15,
+                    "dPcVotos": 0.04,
+                    "iEscanos": 0
+                }
+            ]
+        },
+        "02826": {
+            "escrutinio": {
+                "sHora": "17:18",
+                "dPcEscrutado": 28.26,
+                "iAbstenciones": 40115,
+                "iNulos": 444,
+                "iBlancos": 347,
+                "iVotos": 64714
+            },
+            "candidaturas": [
+                {
+                    "ixCandidatura": "0001",
+                    "sCandidatura": "PSOE",
+                    "ixCandidaturaAgregada": "0001",
+                    "sCandidaturaAgregada": "PSOE",
+                    "sCandidaturaUnificada": "psoe",
+                    "iVotos": 17436,
+                    "dPcVotos": 27.12,
+                    "iEscanos": 4
+                },
+                {
+                    "ixCandidatura": "0002",
+                    "sCandidatura": "PP",
+                    "ixCandidaturaAgregada": "0002",
+                    "sCandidaturaAgregada": "PP",
+                    "sCandidaturaUnificada": "pp",
+                    "iVotos": 14790,
+                    "dPcVotos": 23.01,
+                    "iEscanos": 4
+                },
+                {
+                    "ixCandidatura": "0020",
+                    "sCandidatura": "UPL",
+                    "ixCandidaturaAgregada": "0020",
+                    "sCandidaturaAgregada": "UPL",
+                    "sCandidaturaUnificada": "u-p-l",
+                    "iVotos": 12200,
+                    "dPcVotos": 18.98,
+                    "iEscanos": 3
+                },
+                {
+                    "ixCandidatura": "0006",
+                    "sCandidatura": "VOX",
+                    "ixCandidaturaAgregada": "0006",
+                    "sCandidaturaAgregada": "VOX",
+                    "sCandidaturaUnificada": "vox",
+                    "iVotos": 8520,
+                    "dPcVotos": 13.25,
+                    "iEscanos": 2
+                },
+                {
+                    "ixCandidatura": "0004",
+                    "sCandidatura": "Podemos",
+                    "ixCandidaturaAgregada": "0004",
+                    "sCandidaturaAgregada": "Podemos",
+                    "sCandidaturaUnificada": "podemos",
+                    "iVotos": 2749,
+                    "dPcVotos": 4.27,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0008",
+                    "sCandidatura": "Cs",
+                    "ixCandidaturaAgregada": "0008",
+                    "sCandidaturaAgregada": "Cs",
+                    "sCandidaturaUnificada": "cs",
+                    "iVotos": 1698,
+                    "dPcVotos": 2.64,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0021",
+                    "sCandidatura": "C. Bierzo",
+                    "ixCandidaturaAgregada": "0021",
+                    "sCandidaturaAgregada": "C. Bierzo",
+                    "sCandidaturaUnificada": "c-bierzo",
+                    "iVotos": 1553,
+                    "dPcVotos": 2.41,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0009",
+                    "sCandidatura": "PACMA",
+                    "ixCandidaturaAgregada": "0009",
+                    "sCandidaturaAgregada": "PACMA",
+                    "sCandidaturaUnificada": "pacma",
+                    "iVotos": 1258,
+                    "dPcVotos": 1.95,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0011",
+                    "sCandidatura": "PCAS-TC",
+                    "ixCandidaturaAgregada": "0011",
+                    "sCandidaturaAgregada": "PCAS-TC",
+                    "sCandidaturaUnificada": "pcas-tc",
+                    "iVotos": 1249,
+                    "dPcVotos": 1.94,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0022",
+                    "sCandidatura": "PREPAL",
+                    "ixCandidaturaAgregada": "0022",
+                    "sCandidaturaAgregada": "PREPAL",
+                    "sCandidaturaUnificada": "prepal",
+                    "iVotos": 1155,
+                    "dPcVotos": 1.79,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0015",
+                    "sCandidatura": "PCTE",
+                    "ixCandidaturaAgregada": "0015",
+                    "sCandidaturaAgregada": "PCTE",
+                    "sCandidaturaUnificada": "pcte",
+                    "iVotos": 1078,
+                    "dPcVotos": 1.67,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0014",
+                    "sCandidatura": "SALF",
+                    "ixCandidaturaAgregada": "0014",
+                    "sCandidaturaAgregada": "SALF",
+                    "sCandidaturaUnificada": "salf",
+                    "iVotos": 66,
+                    "dPcVotos": 0.1,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0012",
+                    "sCandidatura": "ESCAÑOS EN BLANCO",
+                    "ixCandidaturaAgregada": "0012",
+                    "sCandidaturaAgregada": "ESCAÑOS EN BLANCO",
+                    "sCandidaturaUnificada": "escanos-en-blanco",
+                    "iVotos": 58,
+                    "dPcVotos": 0.09,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0010",
+                    "sCandidatura": "NUEVECYL",
+                    "ixCandidaturaAgregada": "0010",
+                    "sCandidaturaAgregada": "NUEVECYL",
+                    "sCandidaturaUnificada": "nuevecyl",
+                    "iVotos": 49,
+                    "dPcVotos": 0.07,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0019",
+                    "sCandidatura": "P. ALANTRE",
+                    "ixCandidaturaAgregada": "0019",
+                    "sCandidaturaAgregada": "P. ALANTRE",
+                    "sCandidaturaUnificada": "p-alantre",
+                    "iVotos": 44,
+                    "dPcVotos": 0.06,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0007",
+                    "sCandidatura": "IU-Sumar",
+                    "ixCandidaturaAgregada": "0007",
+                    "sCandidaturaAgregada": "IU-Sumar",
+                    "sCandidaturaUnificada": "iu",
+                    "iVotos": 20,
+                    "dPcVotos": 0.03,
+                    "iEscanos": 0
+                }
+            ]
+        },
+        "04565": {
+            "escrutinio": {
+                "sHora": "17:21",
+                "dPcEscrutado": 45.65,
+                "iAbstenciones": 63967,
+                "iNulos": 664,
+                "iBlancos": 556,
+                "iVotos": 105397
+            },
+            "candidaturas": [
+                {
+                    "ixCandidatura": "0001",
+                    "sCandidatura": "PSOE",
+                    "ixCandidaturaAgregada": "0001",
+                    "sCandidaturaAgregada": "PSOE",
+                    "sCandidaturaUnificada": "psoe",
+                    "iVotos": 26386,
+                    "dPcVotos": 25.19,
+                    "iEscanos": 4
+                },
+                {
+                    "ixCandidatura": "0002",
+                    "sCandidatura": "PP",
+                    "ixCandidaturaAgregada": "0002",
+                    "sCandidaturaAgregada": "PP",
+                    "sCandidaturaUnificada": "pp",
+                    "iVotos": 23551,
+                    "dPcVotos": 22.48,
+                    "iEscanos": 4
+                },
+                {
+                    "ixCandidatura": "0020",
+                    "sCandidatura": "UPL",
+                    "ixCandidaturaAgregada": "0020",
+                    "sCandidaturaAgregada": "UPL",
+                    "sCandidaturaUnificada": "u-p-l",
+                    "iVotos": 22946,
+                    "dPcVotos": 21.9,
+                    "iEscanos": 3
+                },
+                {
+                    "ixCandidatura": "0006",
+                    "sCandidatura": "VOX",
+                    "ixCandidaturaAgregada": "0006",
+                    "sCandidaturaAgregada": "VOX",
+                    "sCandidaturaUnificada": "vox",
+                    "iVotos": 13869,
+                    "dPcVotos": 13.24,
+                    "iEscanos": 2
+                },
+                {
+                    "ixCandidatura": "0004",
+                    "sCandidatura": "Podemos",
+                    "ixCandidaturaAgregada": "0004",
+                    "sCandidaturaAgregada": "Podemos",
+                    "sCandidaturaUnificada": "podemos",
+                    "iVotos": 4319,
+                    "dPcVotos": 4.12,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0008",
+                    "sCandidatura": "Cs",
+                    "ixCandidaturaAgregada": "0008",
+                    "sCandidaturaAgregada": "Cs",
+                    "sCandidaturaUnificada": "cs",
+                    "iVotos": 2887,
+                    "dPcVotos": 2.75,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0021",
+                    "sCandidatura": "C. Bierzo",
+                    "ixCandidaturaAgregada": "0021",
+                    "sCandidaturaAgregada": "C. Bierzo",
+                    "sCandidaturaUnificada": "c-bierzo",
+                    "iVotos": 2308,
+                    "dPcVotos": 2.2,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0009",
+                    "sCandidatura": "PACMA",
+                    "ixCandidaturaAgregada": "0009",
+                    "sCandidaturaAgregada": "PACMA",
+                    "sCandidaturaUnificada": "pacma",
+                    "iVotos": 2065,
+                    "dPcVotos": 1.97,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0011",
+                    "sCandidatura": "PCAS-TC",
+                    "ixCandidaturaAgregada": "0011",
+                    "sCandidaturaAgregada": "PCAS-TC",
+                    "sCandidaturaUnificada": "pcas-tc",
+                    "iVotos": 1962,
+                    "dPcVotos": 1.87,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0022",
+                    "sCandidatura": "PREPAL",
+                    "ixCandidaturaAgregada": "0022",
+                    "sCandidaturaAgregada": "PREPAL",
+                    "sCandidaturaUnificada": "prepal",
+                    "iVotos": 1808,
+                    "dPcVotos": 1.72,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0015",
+                    "sCandidatura": "PCTE",
+                    "ixCandidaturaAgregada": "0015",
+                    "sCandidaturaAgregada": "PCTE",
+                    "sCandidaturaUnificada": "pcte",
+                    "iVotos": 1717,
+                    "dPcVotos": 1.63,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0014",
+                    "sCandidatura": "SALF",
+                    "ixCandidaturaAgregada": "0014",
+                    "sCandidaturaAgregada": "SALF",
+                    "sCandidaturaUnificada": "salf",
+                    "iVotos": 105,
+                    "dPcVotos": 0.1,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0010",
+                    "sCandidatura": "NUEVECYL",
+                    "ixCandidaturaAgregada": "0010",
+                    "sCandidaturaAgregada": "NUEVECYL",
+                    "sCandidaturaUnificada": "nuevecyl",
+                    "iVotos": 76,
+                    "dPcVotos": 0.07,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0012",
+                    "sCandidatura": "ESCAÑOS EN BLANCO",
+                    "ixCandidaturaAgregada": "0012",
+                    "sCandidaturaAgregada": "ESCAÑOS EN BLANCO",
+                    "sCandidaturaUnificada": "escanos-en-blanco",
+                    "iVotos": 75,
+                    "dPcVotos": 0.07,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0019",
+                    "sCandidatura": "P. ALANTRE",
+                    "ixCandidaturaAgregada": "0019",
+                    "sCandidaturaAgregada": "P. ALANTRE",
+                    "sCandidaturaUnificada": "p-alantre",
+                    "iVotos": 65,
+                    "dPcVotos": 0.06,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0007",
+                    "sCandidatura": "IU-Sumar",
+                    "ixCandidaturaAgregada": "0007",
+                    "sCandidaturaAgregada": "IU-Sumar",
+                    "sCandidaturaUnificada": "iu",
+                    "iVotos": 38,
+                    "dPcVotos": 0.03,
+                    "iEscanos": 0
+                }
+            ]
+        },
+        "04697": {
+            "escrutinio": {
+                "sHora": "17:24",
+                "dPcEscrutado": 46.97,
+                "iAbstenciones": 65891,
+                "iNulos": 688,
+                "iBlancos": 583,
+                "iVotos": 108369
+            },
+            "candidaturas": [
+                {
+                    "ixCandidatura": "0001",
+                    "sCandidatura": "PSOE",
+                    "ixCandidaturaAgregada": "0001",
+                    "sCandidaturaAgregada": "PSOE",
+                    "sCandidaturaUnificada": "psoe",
+                    "iVotos": 27190,
+                    "dPcVotos": 25.25,
+                    "iEscanos": 4
+                },
+                {
+                    "ixCandidatura": "0002",
+                    "sCandidatura": "PP",
+                    "ixCandidaturaAgregada": "0002",
+                    "sCandidaturaAgregada": "PP",
+                    "sCandidaturaUnificada": "pp",
+                    "iVotos": 24330,
+                    "dPcVotos": 22.59,
+                    "iEscanos": 4
+                },
+                {
+                    "ixCandidatura": "0020",
+                    "sCandidatura": "UPL",
+                    "ixCandidaturaAgregada": "0020",
+                    "sCandidaturaAgregada": "UPL",
+                    "sCandidaturaUnificada": "u-p-l",
+                    "iVotos": 23388,
+                    "dPcVotos": 21.71,
+                    "iEscanos": 3
+                },
+                {
+                    "ixCandidatura": "0006",
+                    "sCandidatura": "VOX",
+                    "ixCandidaturaAgregada": "0006",
+                    "sCandidaturaAgregada": "VOX",
+                    "sCandidaturaUnificada": "vox",
+                    "iVotos": 14252,
+                    "dPcVotos": 13.23,
+                    "iEscanos": 2
+                },
+                {
+                    "ixCandidatura": "0004",
+                    "sCandidatura": "Podemos",
+                    "ixCandidaturaAgregada": "0004",
+                    "sCandidaturaAgregada": "Podemos",
+                    "sCandidaturaUnificada": "podemos",
+                    "iVotos": 4433,
+                    "dPcVotos": 4.11,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0008",
+                    "sCandidatura": "Cs",
+                    "ixCandidaturaAgregada": "0008",
+                    "sCandidaturaAgregada": "Cs",
+                    "sCandidaturaUnificada": "cs",
+                    "iVotos": 3025,
+                    "dPcVotos": 2.8,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0021",
+                    "sCandidatura": "C. Bierzo",
+                    "ixCandidaturaAgregada": "0021",
+                    "sCandidaturaAgregada": "C. Bierzo",
+                    "sCandidaturaUnificada": "c-bierzo",
+                    "iVotos": 2371,
+                    "dPcVotos": 2.2,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0009",
+                    "sCandidatura": "PACMA",
+                    "ixCandidaturaAgregada": "0009",
+                    "sCandidaturaAgregada": "PACMA",
+                    "sCandidaturaUnificada": "pacma",
+                    "iVotos": 2141,
+                    "dPcVotos": 1.98,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0011",
+                    "sCandidatura": "PCAS-TC",
+                    "ixCandidaturaAgregada": "0011",
+                    "sCandidaturaAgregada": "PCAS-TC",
+                    "sCandidaturaUnificada": "pcas-tc",
+                    "iVotos": 2000,
+                    "dPcVotos": 1.85,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0022",
+                    "sCandidatura": "PREPAL",
+                    "ixCandidaturaAgregada": "0022",
+                    "sCandidaturaAgregada": "PREPAL",
+                    "sCandidaturaUnificada": "prepal",
+                    "iVotos": 1815,
+                    "dPcVotos": 1.68,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0015",
+                    "sCandidatura": "PCTE",
+                    "ixCandidaturaAgregada": "0015",
+                    "sCandidaturaAgregada": "PCTE",
+                    "sCandidaturaUnificada": "pcte",
+                    "iVotos": 1773,
+                    "dPcVotos": 1.64,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0014",
+                    "sCandidatura": "SALF",
+                    "ixCandidaturaAgregada": "0014",
+                    "sCandidaturaAgregada": "SALF",
+                    "sCandidaturaUnificada": "salf",
+                    "iVotos": 105,
+                    "dPcVotos": 0.09,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0010",
+                    "sCandidatura": "NUEVECYL",
+                    "ixCandidaturaAgregada": "0010",
+                    "sCandidaturaAgregada": "NUEVECYL",
+                    "sCandidaturaUnificada": "nuevecyl",
+                    "iVotos": 80,
+                    "dPcVotos": 0.07,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0012",
+                    "sCandidatura": "ESCAÑOS EN BLANCO",
+                    "ixCandidaturaAgregada": "0012",
+                    "sCandidaturaAgregada": "ESCAÑOS EN BLANCO",
+                    "sCandidaturaUnificada": "escanos-en-blanco",
+                    "iVotos": 79,
+                    "dPcVotos": 0.07,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0019",
+                    "sCandidatura": "P. ALANTRE",
+                    "ixCandidaturaAgregada": "0019",
+                    "sCandidaturaAgregada": "P. ALANTRE",
+                    "sCandidaturaUnificada": "p-alantre",
+                    "iVotos": 65,
+                    "dPcVotos": 0.06,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0007",
+                    "sCandidatura": "IU-Sumar",
+                    "ixCandidaturaAgregada": "0007",
+                    "sCandidaturaAgregada": "IU-Sumar",
+                    "sCandidaturaUnificada": "iu",
+                    "iVotos": 51,
+                    "dPcVotos": 0.04,
+                    "iEscanos": 0
+                }
+            ]
+        },
+        "05979": {
+            "escrutinio": {
+                "sHora": "17:27",
+                "dPcEscrutado": 59.79,
+                "iAbstenciones": 87029,
+                "iNulos": 933,
+                "iBlancos": 812,
+                "iVotos": 134758
+            },
+            "candidaturas": [
+                {
+                    "ixCandidatura": "0001",
+                    "sCandidatura": "PSOE",
+                    "ixCandidaturaAgregada": "0001",
+                    "sCandidaturaAgregada": "PSOE",
+                    "sCandidaturaUnificada": "psoe",
+                    "iVotos": 36993,
+                    "dPcVotos": 27.64,
+                    "iEscanos": 4
+                },
+                {
+                    "ixCandidatura": "0002",
+                    "sCandidatura": "PP",
+                    "ixCandidaturaAgregada": "0002",
+                    "sCandidaturaAgregada": "PP",
+                    "sCandidaturaUnificada": "pp",
+                    "iVotos": 30375,
+                    "dPcVotos": 22.69,
+                    "iEscanos": 4
+                },
+                {
+                    "ixCandidatura": "0020",
+                    "sCandidatura": "UPL",
+                    "ixCandidaturaAgregada": "0020",
+                    "sCandidaturaAgregada": "UPL",
+                    "sCandidaturaUnificada": "u-p-l",
+                    "iVotos": 24488,
+                    "dPcVotos": 18.29,
+                    "iEscanos": 3
+                },
+                {
+                    "ixCandidatura": "0006",
+                    "sCandidatura": "VOX",
+                    "ixCandidaturaAgregada": "0006",
+                    "sCandidaturaAgregada": "VOX",
+                    "sCandidaturaUnificada": "vox",
+                    "iVotos": 17067,
+                    "dPcVotos": 12.75,
+                    "iEscanos": 2
+                },
+                {
+                    "ixCandidatura": "0004",
+                    "sCandidatura": "Podemos",
+                    "ixCandidaturaAgregada": "0004",
+                    "sCandidaturaAgregada": "Podemos",
+                    "sCandidaturaUnificada": "podemos",
+                    "iVotos": 6266,
+                    "dPcVotos": 4.68,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0008",
+                    "sCandidatura": "Cs",
+                    "ixCandidaturaAgregada": "0008",
+                    "sCandidaturaAgregada": "Cs",
+                    "sCandidaturaUnificada": "cs",
+                    "iVotos": 4075,
+                    "dPcVotos": 3.04,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0021",
+                    "sCandidatura": "C. Bierzo",
+                    "ixCandidaturaAgregada": "0021",
+                    "sCandidaturaAgregada": "C. Bierzo",
+                    "sCandidaturaUnificada": "c-bierzo",
+                    "iVotos": 3620,
+                    "dPcVotos": 2.7,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0009",
+                    "sCandidatura": "PACMA",
+                    "ixCandidaturaAgregada": "0009",
+                    "sCandidaturaAgregada": "PACMA",
+                    "sCandidaturaUnificada": "pacma",
+                    "iVotos": 2604,
+                    "dPcVotos": 1.94,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0015",
+                    "sCandidatura": "PCTE",
+                    "ixCandidaturaAgregada": "0015",
+                    "sCandidaturaAgregada": "PCTE",
+                    "sCandidaturaUnificada": "pcte",
+                    "iVotos": 2466,
+                    "dPcVotos": 1.84,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0011",
+                    "sCandidatura": "PCAS-TC",
+                    "ixCandidaturaAgregada": "0011",
+                    "sCandidaturaAgregada": "PCAS-TC",
+                    "sCandidaturaUnificada": "pcas-tc",
+                    "iVotos": 2362,
+                    "dPcVotos": 1.76,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0022",
+                    "sCandidatura": "PREPAL",
+                    "ixCandidaturaAgregada": "0022",
+                    "sCandidaturaAgregada": "PREPAL",
+                    "sCandidaturaUnificada": "prepal",
+                    "iVotos": 2229,
+                    "dPcVotos": 1.66,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0014",
+                    "sCandidatura": "SALF",
+                    "ixCandidaturaAgregada": "0014",
+                    "sCandidaturaAgregada": "SALF",
+                    "sCandidaturaUnificada": "salf",
+                    "iVotos": 122,
+                    "dPcVotos": 0.09,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0010",
+                    "sCandidatura": "NUEVECYL",
+                    "ixCandidaturaAgregada": "0010",
+                    "sCandidaturaAgregada": "NUEVECYL",
+                    "sCandidaturaUnificada": "nuevecyl",
+                    "iVotos": 99,
+                    "dPcVotos": 0.07,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0012",
+                    "sCandidatura": "ESCAÑOS EN BLANCO",
+                    "ixCandidaturaAgregada": "0012",
+                    "sCandidaturaAgregada": "ESCAÑOS EN BLANCO",
+                    "sCandidaturaUnificada": "escanos-en-blanco",
+                    "iVotos": 95,
+                    "dPcVotos": 0.07,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0019",
+                    "sCandidatura": "P. ALANTRE",
+                    "ixCandidaturaAgregada": "0019",
+                    "sCandidaturaAgregada": "P. ALANTRE",
+                    "sCandidaturaUnificada": "p-alantre",
+                    "iVotos": 79,
+                    "dPcVotos": 0.05,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0007",
+                    "sCandidatura": "IU-Sumar",
+                    "ixCandidaturaAgregada": "0007",
+                    "sCandidaturaAgregada": "IU-Sumar",
+                    "sCandidaturaUnificada": "iu",
+                    "iVotos": 73,
+                    "dPcVotos": 0.05,
+                    "iEscanos": 0
+                }
+            ]
+        },
+        "06412": {
+            "escrutinio": {
+                "sHora": "17:30",
+                "dPcEscrutado": 64.12,
+                "iAbstenciones": 94002,
+                "iNulos": 999,
+                "iBlancos": 862,
+                "iVotos": 143860
+            },
+            "candidaturas": [
+                {
+                    "ixCandidatura": "0001",
+                    "sCandidatura": "PSOE",
+                    "ixCandidaturaAgregada": "0001",
+                    "sCandidaturaAgregada": "PSOE",
+                    "sCandidaturaUnificada": "psoe",
+                    "iVotos": 39544,
+                    "dPcVotos": 27.68,
+                    "iEscanos": 4
+                },
+                {
+                    "ixCandidatura": "0002",
+                    "sCandidatura": "PP",
+                    "ixCandidaturaAgregada": "0002",
+                    "sCandidaturaAgregada": "PP",
+                    "sCandidaturaUnificada": "pp",
+                    "iVotos": 32948,
+                    "dPcVotos": 23.06,
+                    "iEscanos": 4
+                },
+                {
+                    "ixCandidatura": "0020",
+                    "sCandidatura": "UPL",
+                    "ixCandidaturaAgregada": "0020",
+                    "sCandidaturaAgregada": "UPL",
+                    "sCandidaturaUnificada": "u-p-l",
+                    "iVotos": 25673,
+                    "dPcVotos": 17.97,
+                    "iEscanos": 3
+                },
+                {
+                    "ixCandidatura": "0006",
+                    "sCandidatura": "VOX",
+                    "ixCandidaturaAgregada": "0006",
+                    "sCandidaturaAgregada": "VOX",
+                    "sCandidaturaUnificada": "vox",
+                    "iVotos": 18093,
+                    "dPcVotos": 12.66,
+                    "iEscanos": 2
+                },
+                {
+                    "ixCandidatura": "0004",
+                    "sCandidatura": "Podemos",
+                    "ixCandidaturaAgregada": "0004",
+                    "sCandidaturaAgregada": "Podemos",
+                    "sCandidaturaUnificada": "podemos",
+                    "iVotos": 6707,
+                    "dPcVotos": 4.69,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0008",
+                    "sCandidatura": "Cs",
+                    "ixCandidaturaAgregada": "0008",
+                    "sCandidaturaAgregada": "Cs",
+                    "sCandidaturaUnificada": "cs",
+                    "iVotos": 4439,
+                    "dPcVotos": 3.1,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0021",
+                    "sCandidatura": "C. Bierzo",
+                    "ixCandidaturaAgregada": "0021",
+                    "sCandidaturaAgregada": "C. Bierzo",
+                    "sCandidaturaUnificada": "c-bierzo",
+                    "iVotos": 3916,
+                    "dPcVotos": 2.74,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0009",
+                    "sCandidatura": "PACMA",
+                    "ixCandidaturaAgregada": "0009",
+                    "sCandidaturaAgregada": "PACMA",
+                    "sCandidaturaUnificada": "pacma",
+                    "iVotos": 2757,
+                    "dPcVotos": 1.92,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0015",
+                    "sCandidatura": "PCTE",
+                    "ixCandidaturaAgregada": "0015",
+                    "sCandidaturaAgregada": "PCTE",
+                    "sCandidaturaUnificada": "pcte",
+                    "iVotos": 2629,
+                    "dPcVotos": 1.84,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0011",
+                    "sCandidatura": "PCAS-TC",
+                    "ixCandidaturaAgregada": "0011",
+                    "sCandidaturaAgregada": "PCAS-TC",
+                    "sCandidaturaUnificada": "pcas-tc",
+                    "iVotos": 2476,
+                    "dPcVotos": 1.73,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0022",
+                    "sCandidatura": "PREPAL",
+                    "ixCandidaturaAgregada": "0022",
+                    "sCandidaturaAgregada": "PREPAL",
+                    "sCandidaturaUnificada": "prepal",
+                    "iVotos": 2297,
+                    "dPcVotos": 1.6,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0014",
+                    "sCandidatura": "SALF",
+                    "ixCandidaturaAgregada": "0014",
+                    "sCandidaturaAgregada": "SALF",
+                    "sCandidaturaUnificada": "salf",
+                    "iVotos": 126,
+                    "dPcVotos": 0.08,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0012",
+                    "sCandidatura": "ESCAÑOS EN BLANCO",
+                    "ixCandidaturaAgregada": "0012",
+                    "sCandidaturaAgregada": "ESCAÑOS EN BLANCO",
+                    "sCandidaturaUnificada": "escanos-en-blanco",
+                    "iVotos": 116,
+                    "dPcVotos": 0.08,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0010",
+                    "sCandidatura": "NUEVECYL",
+                    "ixCandidaturaAgregada": "0010",
+                    "sCandidaturaAgregada": "NUEVECYL",
+                    "sCandidaturaUnificada": "nuevecyl",
+                    "iVotos": 109,
+                    "dPcVotos": 0.07,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0019",
+                    "sCandidatura": "P. ALANTRE",
+                    "ixCandidaturaAgregada": "0019",
+                    "sCandidaturaAgregada": "P. ALANTRE",
+                    "sCandidaturaUnificada": "p-alantre",
+                    "iVotos": 87,
+                    "dPcVotos": 0.06,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0007",
+                    "sCandidatura": "IU-Sumar",
+                    "ixCandidaturaAgregada": "0007",
+                    "sCandidaturaAgregada": "IU-Sumar",
+                    "sCandidaturaUnificada": "iu",
+                    "iVotos": 82,
+                    "dPcVotos": 0.05,
+                    "iEscanos": 0
+                }
+            ]
+        },
+        "07220": {
+            "escrutinio": {
+                "sHora": "17:33",
+                "dPcEscrutado": 72.2,
+                "iAbstenciones": 105772,
+                "iNulos": 1123,
+                "iBlancos": 953,
+                "iVotos": 162039
+            },
+            "candidaturas": [
+                {
+                    "ixCandidatura": "0001",
+                    "sCandidatura": "PSOE",
+                    "ixCandidaturaAgregada": "0001",
+                    "sCandidaturaAgregada": "PSOE",
+                    "sCandidaturaUnificada": "psoe",
+                    "iVotos": 43547,
+                    "dPcVotos": 27.06,
+                    "iEscanos": 4
+                },
+                {
+                    "ixCandidatura": "0002",
+                    "sCandidatura": "PP",
+                    "ixCandidaturaAgregada": "0002",
+                    "sCandidaturaAgregada": "PP",
+                    "sCandidaturaUnificada": "pp",
+                    "iVotos": 36232,
+                    "dPcVotos": 22.51,
+                    "iEscanos": 4
+                },
+                {
+                    "ixCandidatura": "0020",
+                    "sCandidatura": "UPL",
+                    "ixCandidaturaAgregada": "0020",
+                    "sCandidaturaAgregada": "UPL",
+                    "sCandidaturaUnificada": "u-p-l",
+                    "iVotos": 30676,
+                    "dPcVotos": 19.06,
+                    "iEscanos": 3
+                },
+                {
+                    "ixCandidatura": "0006",
+                    "sCandidatura": "VOX",
+                    "ixCandidaturaAgregada": "0006",
+                    "sCandidaturaAgregada": "VOX",
+                    "sCandidaturaUnificada": "vox",
+                    "iVotos": 20813,
+                    "dPcVotos": 12.93,
+                    "iEscanos": 2
+                },
+                {
+                    "ixCandidatura": "0004",
+                    "sCandidatura": "Podemos",
+                    "ixCandidaturaAgregada": "0004",
+                    "sCandidaturaAgregada": "Podemos",
+                    "sCandidaturaUnificada": "podemos",
+                    "iVotos": 7619,
+                    "dPcVotos": 4.73,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0008",
+                    "sCandidatura": "Cs",
+                    "ixCandidaturaAgregada": "0008",
+                    "sCandidaturaAgregada": "Cs",
+                    "sCandidaturaUnificada": "cs",
+                    "iVotos": 4887,
+                    "dPcVotos": 3.03,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0021",
+                    "sCandidatura": "C. Bierzo",
+                    "ixCandidaturaAgregada": "0021",
+                    "sCandidaturaAgregada": "C. Bierzo",
+                    "sCandidaturaUnificada": "c-bierzo",
+                    "iVotos": 4388,
+                    "dPcVotos": 2.72,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0009",
+                    "sCandidatura": "PACMA",
+                    "ixCandidaturaAgregada": "0009",
+                    "sCandidaturaAgregada": "PACMA",
+                    "sCandidaturaUnificada": "pacma",
+                    "iVotos": 3013,
+                    "dPcVotos": 1.87,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0015",
+                    "sCandidatura": "PCTE",
+                    "ixCandidaturaAgregada": "0015",
+                    "sCandidaturaAgregada": "PCTE",
+                    "sCandidaturaUnificada": "pcte",
+                    "iVotos": 2943,
+                    "dPcVotos": 1.82,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0011",
+                    "sCandidatura": "PCAS-TC",
+                    "ixCandidaturaAgregada": "0011",
+                    "sCandidaturaAgregada": "PCAS-TC",
+                    "sCandidaturaUnificada": "pcas-tc",
+                    "iVotos": 2736,
+                    "dPcVotos": 1.7,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0022",
+                    "sCandidatura": "PREPAL",
+                    "ixCandidaturaAgregada": "0022",
+                    "sCandidaturaAgregada": "PREPAL",
+                    "sCandidaturaUnificada": "prepal",
+                    "iVotos": 2530,
+                    "dPcVotos": 1.57,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0014",
+                    "sCandidatura": "SALF",
+                    "ixCandidaturaAgregada": "0014",
+                    "sCandidaturaAgregada": "SALF",
+                    "sCandidaturaUnificada": "salf",
+                    "iVotos": 142,
+                    "dPcVotos": 0.08,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0012",
+                    "sCandidatura": "ESCAÑOS EN BLANCO",
+                    "ixCandidaturaAgregada": "0012",
+                    "sCandidaturaAgregada": "ESCAÑOS EN BLANCO",
+                    "sCandidaturaUnificada": "escanos-en-blanco",
+                    "iVotos": 129,
+                    "dPcVotos": 0.08,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0010",
+                    "sCandidatura": "NUEVECYL",
+                    "ixCandidaturaAgregada": "0010",
+                    "sCandidaturaAgregada": "NUEVECYL",
+                    "sCandidaturaUnificada": "nuevecyl",
+                    "iVotos": 116,
+                    "dPcVotos": 0.07,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0007",
+                    "sCandidatura": "IU-Sumar",
+                    "ixCandidaturaAgregada": "0007",
+                    "sCandidaturaAgregada": "IU-Sumar",
+                    "sCandidaturaUnificada": "iu",
+                    "iVotos": 97,
+                    "dPcVotos": 0.06,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0019",
+                    "sCandidatura": "P. ALANTRE",
+                    "ixCandidaturaAgregada": "0019",
+                    "sCandidaturaAgregada": "P. ALANTRE",
+                    "sCandidaturaUnificada": "p-alantre",
+                    "iVotos": 95,
+                    "dPcVotos": 0.05,
+                    "iEscanos": 0
+                }
+            ]
+        },
+        "07611": {
+            "escrutinio": {
+                "sHora": "17:36",
+                "dPcEscrutado": 76.11,
+                "iAbstenciones": 111076,
+                "iNulos": 1154,
+                "iBlancos": 982,
+                "iVotos": 171239
+            },
+            "candidaturas": [
+                {
+                    "ixCandidatura": "0001",
+                    "sCandidatura": "PSOE",
+                    "ixCandidaturaAgregada": "0001",
+                    "sCandidaturaAgregada": "PSOE",
+                    "sCandidaturaUnificada": "psoe",
+                    "iVotos": 44989,
+                    "dPcVotos": 26.45,
+                    "iEscanos": 4
+                },
+                {
+                    "ixCandidatura": "0002",
+                    "sCandidatura": "PP",
+                    "ixCandidaturaAgregada": "0002",
+                    "sCandidaturaAgregada": "PP",
+                    "sCandidaturaUnificada": "pp",
+                    "iVotos": 38259,
+                    "dPcVotos": 22.49,
+                    "iEscanos": 4
+                },
+                {
+                    "ixCandidatura": "0020",
+                    "sCandidatura": "UPL",
+                    "ixCandidaturaAgregada": "0020",
+                    "sCandidaturaAgregada": "UPL",
+                    "sCandidaturaUnificada": "u-p-l",
+                    "iVotos": 33377,
+                    "dPcVotos": 19.62,
+                    "iEscanos": 3
+                },
+                {
+                    "ixCandidatura": "0006",
+                    "sCandidatura": "VOX",
+                    "ixCandidaturaAgregada": "0006",
+                    "sCandidaturaAgregada": "VOX",
+                    "sCandidaturaUnificada": "vox",
+                    "iVotos": 22463,
+                    "dPcVotos": 13.2,
+                    "iEscanos": 2
+                },
+                {
+                    "ixCandidatura": "0004",
+                    "sCandidatura": "Podemos",
+                    "ixCandidaturaAgregada": "0004",
+                    "sCandidaturaAgregada": "Podemos",
+                    "sCandidaturaUnificada": "podemos",
+                    "iVotos": 7855,
+                    "dPcVotos": 4.61,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0008",
+                    "sCandidatura": "Cs",
+                    "ixCandidaturaAgregada": "0008",
+                    "sCandidaturaAgregada": "Cs",
+                    "sCandidaturaUnificada": "cs",
+                    "iVotos": 5158,
+                    "dPcVotos": 3.03,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0021",
+                    "sCandidatura": "C. Bierzo",
+                    "ixCandidaturaAgregada": "0021",
+                    "sCandidaturaAgregada": "C. Bierzo",
+                    "sCandidaturaUnificada": "c-bierzo",
+                    "iVotos": 4555,
+                    "dPcVotos": 2.67,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0009",
+                    "sCandidatura": "PACMA",
+                    "ixCandidaturaAgregada": "0009",
+                    "sCandidaturaAgregada": "PACMA",
+                    "sCandidaturaUnificada": "pacma",
+                    "iVotos": 3184,
+                    "dPcVotos": 1.87,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0015",
+                    "sCandidatura": "PCTE",
+                    "ixCandidaturaAgregada": "0015",
+                    "sCandidaturaAgregada": "PCTE",
+                    "sCandidaturaUnificada": "pcte",
+                    "iVotos": 3079,
+                    "dPcVotos": 1.81,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0011",
+                    "sCandidatura": "PCAS-TC",
+                    "ixCandidaturaAgregada": "0011",
+                    "sCandidaturaAgregada": "PCAS-TC",
+                    "sCandidaturaUnificada": "pcas-tc",
+                    "iVotos": 2873,
+                    "dPcVotos": 1.68,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0022",
+                    "sCandidatura": "PREPAL",
+                    "ixCandidaturaAgregada": "0022",
+                    "sCandidaturaAgregada": "PREPAL",
+                    "sCandidaturaUnificada": "prepal",
+                    "iVotos": 2685,
+                    "dPcVotos": 1.57,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0014",
+                    "sCandidatura": "SALF",
+                    "ixCandidaturaAgregada": "0014",
+                    "sCandidaturaAgregada": "SALF",
+                    "sCandidaturaUnificada": "salf",
+                    "iVotos": 158,
+                    "dPcVotos": 0.09,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0012",
+                    "sCandidatura": "ESCAÑOS EN BLANCO",
+                    "ixCandidaturaAgregada": "0012",
+                    "sCandidaturaAgregada": "ESCAÑOS EN BLANCO",
+                    "sCandidaturaUnificada": "escanos-en-blanco",
+                    "iVotos": 146,
+                    "dPcVotos": 0.08,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0010",
+                    "sCandidatura": "NUEVECYL",
+                    "ixCandidaturaAgregada": "0010",
+                    "sCandidaturaAgregada": "NUEVECYL",
+                    "sCandidaturaUnificada": "nuevecyl",
+                    "iVotos": 116,
+                    "dPcVotos": 0.06,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0007",
+                    "sCandidatura": "IU-Sumar",
+                    "ixCandidaturaAgregada": "0007",
+                    "sCandidaturaAgregada": "IU-Sumar",
+                    "sCandidaturaUnificada": "iu",
+                    "iVotos": 111,
+                    "dPcVotos": 0.06,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0019",
+                    "sCandidatura": "P. ALANTRE",
+                    "ixCandidaturaAgregada": "0019",
+                    "sCandidaturaAgregada": "P. ALANTRE",
+                    "sCandidaturaUnificada": "p-alantre",
+                    "iVotos": 95,
+                    "dPcVotos": 0.05,
+                    "iEscanos": 0
+                }
+            ]
+        },
+        "08136": {
+            "escrutinio": {
+                "sHora": "17:42",
+                "dPcEscrutado": 81.36,
+                "iAbstenciones": 118684,
+                "iNulos": 1223,
+                "iBlancos": 1030,
+                "iVotos": 183121
+            },
+            "candidaturas": [
+                {
+                    "ixCandidatura": "0001",
+                    "sCandidatura": "PSOE",
+                    "ixCandidaturaAgregada": "0001",
+                    "sCandidaturaAgregada": "PSOE",
+                    "sCandidaturaUnificada": "psoe",
+                    "iVotos": 48072,
+                    "dPcVotos": 26.42,
+                    "iEscanos": 4
+                },
+                {
+                    "ixCandidatura": "0002",
+                    "sCandidatura": "PP",
+                    "ixCandidaturaAgregada": "0002",
+                    "sCandidaturaAgregada": "PP",
+                    "sCandidaturaUnificada": "pp",
+                    "iVotos": 41084,
+                    "dPcVotos": 22.58,
+                    "iEscanos": 4
+                },
+                {
+                    "ixCandidatura": "0020",
+                    "sCandidatura": "UPL",
+                    "ixCandidaturaAgregada": "0020",
+                    "sCandidaturaAgregada": "UPL",
+                    "sCandidaturaUnificada": "u-p-l",
+                    "iVotos": 35386,
+                    "dPcVotos": 19.45,
+                    "iEscanos": 3
+                },
+                {
+                    "ixCandidatura": "0006",
+                    "sCandidatura": "VOX",
+                    "ixCandidaturaAgregada": "0006",
+                    "sCandidaturaAgregada": "VOX",
+                    "sCandidaturaUnificada": "vox",
+                    "iVotos": 24078,
+                    "dPcVotos": 13.23,
+                    "iEscanos": 2
+                },
+                {
+                    "ixCandidatura": "0004",
+                    "sCandidatura": "Podemos",
+                    "ixCandidaturaAgregada": "0004",
+                    "sCandidaturaAgregada": "Podemos",
+                    "sCandidaturaUnificada": "podemos",
+                    "iVotos": 8462,
+                    "dPcVotos": 4.65,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0008",
+                    "sCandidatura": "Cs",
+                    "ixCandidaturaAgregada": "0008",
+                    "sCandidaturaAgregada": "Cs",
+                    "sCandidaturaUnificada": "cs",
+                    "iVotos": 5519,
+                    "dPcVotos": 3.03,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0021",
+                    "sCandidatura": "C. Bierzo",
+                    "ixCandidaturaAgregada": "0021",
+                    "sCandidaturaAgregada": "C. Bierzo",
+                    "sCandidaturaUnificada": "c-bierzo",
+                    "iVotos": 4874,
+                    "dPcVotos": 2.67,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0009",
+                    "sCandidatura": "PACMA",
+                    "ixCandidaturaAgregada": "0009",
+                    "sCandidaturaAgregada": "PACMA",
+                    "sCandidaturaUnificada": "pacma",
+                    "iVotos": 3419,
+                    "dPcVotos": 1.87,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0015",
+                    "sCandidatura": "PCTE",
+                    "ixCandidaturaAgregada": "0015",
+                    "sCandidaturaAgregada": "PCTE",
+                    "sCandidaturaUnificada": "pcte",
+                    "iVotos": 3249,
+                    "dPcVotos": 1.78,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0011",
+                    "sCandidatura": "PCAS-TC",
+                    "ixCandidaturaAgregada": "0011",
+                    "sCandidaturaAgregada": "PCAS-TC",
+                    "sCandidaturaUnificada": "pcas-tc",
+                    "iVotos": 3144,
+                    "dPcVotos": 1.72,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0022",
+                    "sCandidatura": "PREPAL",
+                    "ixCandidaturaAgregada": "0022",
+                    "sCandidaturaAgregada": "PREPAL",
+                    "sCandidaturaUnificada": "prepal",
+                    "iVotos": 2907,
+                    "dPcVotos": 1.59,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0014",
+                    "sCandidatura": "SALF",
+                    "ixCandidaturaAgregada": "0014",
+                    "sCandidaturaAgregada": "SALF",
+                    "sCandidaturaUnificada": "salf",
+                    "iVotos": 171,
+                    "dPcVotos": 0.09,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0012",
+                    "sCandidatura": "ESCAÑOS EN BLANCO",
+                    "ixCandidaturaAgregada": "0012",
+                    "sCandidaturaAgregada": "ESCAÑOS EN BLANCO",
+                    "sCandidaturaUnificada": "escanos-en-blanco",
+                    "iVotos": 152,
+                    "dPcVotos": 0.08,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0010",
+                    "sCandidatura": "NUEVECYL",
+                    "ixCandidaturaAgregada": "0010",
+                    "sCandidaturaAgregada": "NUEVECYL",
+                    "sCandidaturaUnificada": "nuevecyl",
+                    "iVotos": 126,
+                    "dPcVotos": 0.06,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0007",
+                    "sCandidatura": "IU-Sumar",
+                    "ixCandidaturaAgregada": "0007",
+                    "sCandidaturaAgregada": "IU-Sumar",
+                    "sCandidaturaUnificada": "iu",
+                    "iVotos": 122,
+                    "dPcVotos": 0.06,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0019",
+                    "sCandidatura": "P. ALANTRE",
+                    "ixCandidaturaAgregada": "0019",
+                    "sCandidaturaAgregada": "P. ALANTRE",
+                    "sCandidaturaUnificada": "p-alantre",
+                    "iVotos": 103,
+                    "dPcVotos": 0.05,
+                    "iEscanos": 0
+                }
+            ]
+        },
+        "08824": {
+            "escrutinio": {
+                "sHora": "17:45",
+                "dPcEscrutado": 88.24,
+                "iAbstenciones": 129705,
+                "iNulos": 1299,
+                "iBlancos": 1117,
+                "iVotos": 197626
+            },
+            "candidaturas": [
+                {
+                    "ixCandidatura": "0001",
+                    "sCandidatura": "PSOE",
+                    "ixCandidaturaAgregada": "0001",
+                    "sCandidaturaAgregada": "PSOE",
+                    "sCandidaturaUnificada": "psoe",
+                    "iVotos": 52399,
+                    "dPcVotos": 26.68,
+                    "iEscanos": 4
+                },
+                {
+                    "ixCandidatura": "0002",
+                    "sCandidatura": "PP",
+                    "ixCandidaturaAgregada": "0002",
+                    "sCandidaturaAgregada": "PP",
+                    "sCandidaturaUnificada": "pp",
+                    "iVotos": 44225,
+                    "dPcVotos": 22.52,
+                    "iEscanos": 4
+                },
+                {
+                    "ixCandidatura": "0020",
+                    "sCandidatura": "UPL",
+                    "ixCandidaturaAgregada": "0020",
+                    "sCandidaturaAgregada": "UPL",
+                    "sCandidaturaUnificada": "u-p-l",
+                    "iVotos": 37585,
+                    "dPcVotos": 19.14,
+                    "iEscanos": 3
+                },
+                {
+                    "ixCandidatura": "0006",
+                    "sCandidatura": "VOX",
+                    "ixCandidaturaAgregada": "0006",
+                    "sCandidaturaAgregada": "VOX",
+                    "sCandidaturaUnificada": "vox",
+                    "iVotos": 26137,
+                    "dPcVotos": 13.31,
+                    "iEscanos": 2
+                },
+                {
+                    "ixCandidatura": "0004",
+                    "sCandidatura": "Podemos",
+                    "ixCandidaturaAgregada": "0004",
+                    "sCandidaturaAgregada": "Podemos",
+                    "sCandidaturaUnificada": "podemos",
+                    "iVotos": 9155,
+                    "dPcVotos": 4.66,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0008",
+                    "sCandidatura": "Cs",
+                    "ixCandidaturaAgregada": "0008",
+                    "sCandidaturaAgregada": "Cs",
+                    "sCandidaturaUnificada": "cs",
+                    "iVotos": 5938,
+                    "dPcVotos": 3.02,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0021",
+                    "sCandidatura": "C. Bierzo",
+                    "ixCandidaturaAgregada": "0021",
+                    "sCandidaturaAgregada": "C. Bierzo",
+                    "sCandidaturaUnificada": "c-bierzo",
+                    "iVotos": 5204,
+                    "dPcVotos": 2.65,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0009",
+                    "sCandidatura": "PACMA",
+                    "ixCandidaturaAgregada": "0009",
+                    "sCandidaturaAgregada": "PACMA",
+                    "sCandidaturaUnificada": "pacma",
+                    "iVotos": 3721,
+                    "dPcVotos": 1.89,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0015",
+                    "sCandidatura": "PCTE",
+                    "ixCandidaturaAgregada": "0015",
+                    "sCandidaturaAgregada": "PCTE",
+                    "sCandidaturaUnificada": "pcte",
+                    "iVotos": 3550,
+                    "dPcVotos": 1.8,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0011",
+                    "sCandidatura": "PCAS-TC",
+                    "ixCandidaturaAgregada": "0011",
+                    "sCandidaturaAgregada": "PCAS-TC",
+                    "sCandidaturaUnificada": "pcas-tc",
+                    "iVotos": 3418,
+                    "dPcVotos": 1.74,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0022",
+                    "sCandidatura": "PREPAL",
+                    "ixCandidaturaAgregada": "0022",
+                    "sCandidaturaAgregada": "PREPAL",
+                    "sCandidaturaUnificada": "prepal",
+                    "iVotos": 3149,
+                    "dPcVotos": 1.6,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0014",
+                    "sCandidatura": "SALF",
+                    "ixCandidaturaAgregada": "0014",
+                    "sCandidaturaAgregada": "SALF",
+                    "sCandidaturaUnificada": "salf",
+                    "iVotos": 183,
+                    "dPcVotos": 0.09,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0012",
+                    "sCandidatura": "ESCAÑOS EN BLANCO",
+                    "ixCandidaturaAgregada": "0012",
+                    "sCandidaturaAgregada": "ESCAÑOS EN BLANCO",
+                    "sCandidaturaUnificada": "escanos-en-blanco",
+                    "iVotos": 162,
+                    "dPcVotos": 0.08,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0007",
+                    "sCandidatura": "IU-Sumar",
+                    "ixCandidaturaAgregada": "0007",
+                    "sCandidaturaAgregada": "IU-Sumar",
+                    "sCandidaturaUnificada": "iu",
+                    "iVotos": 135,
+                    "dPcVotos": 0.06,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0010",
+                    "sCandidatura": "NUEVECYL",
+                    "ixCandidaturaAgregada": "0010",
+                    "sCandidaturaAgregada": "NUEVECYL",
+                    "sCandidaturaUnificada": "nuevecyl",
+                    "iVotos": 133,
+                    "dPcVotos": 0.06,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0019",
+                    "sCandidatura": "P. ALANTRE",
+                    "ixCandidaturaAgregada": "0019",
+                    "sCandidaturaAgregada": "P. ALANTRE",
+                    "sCandidaturaUnificada": "p-alantre",
+                    "iVotos": 116,
+                    "dPcVotos": 0.05,
+                    "iEscanos": 0
+                }
+            ]
+        },
+        "09466": {
+            "escrutinio": {
+                "sHora": "17:51",
+                "dPcEscrutado": 94.66,
+                "iAbstenciones": 138824,
+                "iNulos": 1406,
+                "iBlancos": 1235,
+                "iVotos": 212327
+            },
+            "candidaturas": [
+                {
+                    "ixCandidatura": "0001",
+                    "sCandidatura": "PSOE",
+                    "ixCandidaturaAgregada": "0001",
+                    "sCandidaturaAgregada": "PSOE",
+                    "sCandidaturaUnificada": "psoe",
+                    "iVotos": 55633,
+                    "dPcVotos": 26.37,
+                    "iEscanos": 4
+                },
+                {
+                    "ixCandidatura": "0002",
+                    "sCandidatura": "PP",
+                    "ixCandidaturaAgregada": "0002",
+                    "sCandidaturaAgregada": "PP",
+                    "sCandidaturaUnificada": "pp",
+                    "iVotos": 46925,
+                    "dPcVotos": 22.24,
+                    "iEscanos": 4
+                },
+                {
+                    "ixCandidatura": "0020",
+                    "sCandidatura": "UPL",
+                    "ixCandidaturaAgregada": "0020",
+                    "sCandidaturaAgregada": "UPL",
+                    "sCandidaturaUnificada": "u-p-l",
+                    "iVotos": 41325,
+                    "dPcVotos": 19.59,
+                    "iEscanos": 3
+                },
+                {
+                    "ixCandidatura": "0006",
+                    "sCandidatura": "VOX",
+                    "ixCandidaturaAgregada": "0006",
+                    "sCandidaturaAgregada": "VOX",
+                    "sCandidaturaUnificada": "vox",
+                    "iVotos": 28499,
+                    "dPcVotos": 13.51,
+                    "iEscanos": 2
+                },
+                {
+                    "ixCandidatura": "0004",
+                    "sCandidatura": "Podemos",
+                    "ixCandidaturaAgregada": "0004",
+                    "sCandidaturaAgregada": "Podemos",
+                    "sCandidaturaUnificada": "podemos",
+                    "iVotos": 9790,
+                    "dPcVotos": 4.64,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0008",
+                    "sCandidatura": "Cs",
+                    "ixCandidaturaAgregada": "0008",
+                    "sCandidaturaAgregada": "Cs",
+                    "sCandidaturaUnificada": "cs",
+                    "iVotos": 6288,
+                    "dPcVotos": 2.98,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0021",
+                    "sCandidatura": "C. Bierzo",
+                    "ixCandidaturaAgregada": "0021",
+                    "sCandidaturaAgregada": "C. Bierzo",
+                    "sCandidaturaUnificada": "c-bierzo",
+                    "iVotos": 5438,
+                    "dPcVotos": 2.57,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0009",
+                    "sCandidatura": "PACMA",
+                    "ixCandidaturaAgregada": "0009",
+                    "sCandidaturaAgregada": "PACMA",
+                    "sCandidaturaUnificada": "pacma",
+                    "iVotos": 3941,
+                    "dPcVotos": 1.86,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0015",
+                    "sCandidatura": "PCTE",
+                    "ixCandidaturaAgregada": "0015",
+                    "sCandidaturaAgregada": "PCTE",
+                    "sCandidaturaUnificada": "pcte",
+                    "iVotos": 3921,
+                    "dPcVotos": 1.85,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0011",
+                    "sCandidatura": "PCAS-TC",
+                    "ixCandidaturaAgregada": "0011",
+                    "sCandidaturaAgregada": "PCAS-TC",
+                    "sCandidaturaUnificada": "pcas-tc",
+                    "iVotos": 3759,
+                    "dPcVotos": 1.78,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0022",
+                    "sCandidatura": "PREPAL",
+                    "ixCandidaturaAgregada": "0022",
+                    "sCandidaturaAgregada": "PREPAL",
+                    "sCandidaturaUnificada": "prepal",
+                    "iVotos": 3369,
+                    "dPcVotos": 1.59,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0014",
+                    "sCandidatura": "SALF",
+                    "ixCandidaturaAgregada": "0014",
+                    "sCandidaturaAgregada": "SALF",
+                    "sCandidaturaUnificada": "salf",
+                    "iVotos": 192,
+                    "dPcVotos": 0.09,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0012",
+                    "sCandidatura": "ESCAÑOS EN BLANCO",
+                    "ixCandidaturaAgregada": "0012",
+                    "sCandidaturaAgregada": "ESCAÑOS EN BLANCO",
+                    "sCandidaturaUnificada": "escanos-en-blanco",
+                    "iVotos": 173,
+                    "dPcVotos": 0.08,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0007",
+                    "sCandidatura": "IU-Sumar",
+                    "ixCandidaturaAgregada": "0007",
+                    "sCandidaturaAgregada": "IU-Sumar",
+                    "sCandidaturaUnificada": "iu",
+                    "iVotos": 149,
+                    "dPcVotos": 0.07,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0019",
+                    "sCandidatura": "P. ALANTRE",
+                    "ixCandidaturaAgregada": "0019",
+                    "sCandidaturaAgregada": "P. ALANTRE",
+                    "sCandidaturaUnificada": "p-alantre",
+                    "iVotos": 144,
+                    "dPcVotos": 0.06,
+                    "iEscanos": 0
+                },
+                {
+                    "ixCandidatura": "0010",
+                    "sCandidatura": "NUEVECYL",
+                    "ixCandidaturaAgregada": "0010",
+                    "sCandidaturaAgregada": "NUEVECYL",
+                    "sCandidaturaUnificada": "nuevecyl",
+                    "iVotos": 140,
+                    "dPcVotos": 0.06,
+                    "iEscanos": 0
+                }
+            ]
+        }
+    }
+}
